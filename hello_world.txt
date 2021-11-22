@@ -1,2 +1,14 @@
 Hello world!
 This is hello_world.txt
+H
+E
+L
+L
+O
+
+W 
+O
+R
+L
+D
+!

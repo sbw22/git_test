@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+    <title>Plain Blog Article Page</title>
+    <meta charset="utf-8">
+    <meta lang="en">
+</head>
+
+<body>
+    <h1>OP Blog Post #1</h1>
+    <p>This is first blog post that <em>The Odin Project</em> told me to make. I am practicing all the different <strong>elements</strong>
+    that I will use.</p> 
+</body>
